@@ -1,0 +1,12 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Run MNIST Loader",
+            "type": "shell",
+            "command": "python mnist_loader.py",
+            "group": "build",
+            "problemMatcher": []
+        }
+    ]
+}
